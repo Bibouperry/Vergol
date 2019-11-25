@@ -28,50 +28,50 @@ Plusieurs valeurs caractéristiques du vergol sont notables:
 
 ### Valeurs Critques
 
-#### __Pluravergol__ 
+#### ► __Pluravergol__ 
 Le **pluravergol** (PV) correspond à 10^155 V. Cette valeur est atteinte lorsqu'un n-événement dû aux pluralités plasmiques des supra-couches atmosphériques de densité non (ou quasi non) Newtonienne et Lagrangienne (acquis). On retrouve ces couches au-delà de 10^5 pieds. A cette altitude la ceinture de Van Allen3 vergolise le champ vectoriel gravitaire et les personnes possédant un QI de 155 (ou plus) subissent une dose d'un pluravergol. Cette dose est mortelle pour les êtres-vivants lambda.
 
-#### __Entitaniovergol__
+#### ► __Entitaniovergol__
 L'**entitaniovergol** (EV) correspond à 10^10^155 V
 
-#### __Ostralopitecovergol__
+#### ► __Ostralopitecovergol__
 L'**ostralopitecovergol** (OptcV) correspond à 10^155(base64(rainbow)) V
 
-#### __Vergopeule__
+#### ► __Vergopeule__
 Le **vergopeule** est une valeur bien particulière du vergol bien que très abstraite. Lorsqu'une singularité (à l'inverse des pluralités) plasmique de l'espace-temps intervient dans le champ gravitationnel terrestre, les personnes karmo-positives (c'est à dire qui sont plus susceptibles de manger du karma.) subissent une dose précise de karma à travers leur jugulaire: c'est le vergopeule.
 
 ### Valeurs du SI
 
 Le Vergol est une unité du système international, elle suit donc la loi des préfixes du Système international d'unités.
 
-#### __Yottavergol__
+#### ► __Yottavergol__
 Le **yottavergol** [YV] 10^24 V ( Encore jamais atteint, la théorie voudrait que l'usager s'évapore en relativité au rayonnement de Hawking, dans l'espace quadroquantique, conséquences inconnues )
 Le zettavergol [ZV] 10^21 V ( Une telle dose suffit à contrefactuer l'individu dans une dimension n-iéme, calculable par la Loi Hydropeulienne ![hydropeule](https://i.imgur.com/YP3EzR1.png); 
 
 avec P=mg, k la constante Karmique de Bourlbylle, qui se note ![CKarmique](https://i.imgur.com/8BHhENh.png) avec : A une unité astronomique ; D est le jour solaire moyen ; S est la masse solaire. Si à la place du jour solaire moyen, on utilise l'année sidérale comme unité de temps, la valeur de k est alors très proche de 2.PI. V est la vitesse du karma en bordure de la surface considérée ∂D ( mort certaine dans la dimension 1. )
 
-#### __Exavergol__
+#### ► __Exavergol__
 L'**exavergol** [EV] 10^18 V ( Distrubtion lymphatique nanokepplerienne, mise en orbite non géostationnaire à une vitesse de 155 ua/s, mort certaine. )
 
-#### __Pétavergol__
+#### ► __Pétavergol__
 Le **pétavergol** [PV] 10^15 V ( Diffraction asymptotique non logarithmique de puissance p appliqué en une surface ∂x.∂y causant la mort dans 99% des cas, 50 ans pour les chanceux, pierre tombaled pour les autres. )
 
-#### __Téravergol__
+#### ► __Téravergol__
 Le **téravergol** [TV] 10^12 V ( Implosion des complexes enzymatiques en tout point non-singularitique des réseaux sangino-globuliques de l'individu, hôpitaled pendant 2 ans, remise en jambe de 4 ans, total 6 ans)
 
-#### __Gigavergol__
+#### ► __Gigavergol__
 Le **gigavergol** [GV] 10^9 V ( Impossibilité de déplacement pendant 2 mois, cas fixatique et perte de contact social coût de 6 mois )
 
-#### __Mégavergol__
+#### ► __Mégavergol__
 Le **mégavergol** [MV] 10^6 V ( Douleur accouchatique généralisée, peine marquée à l'expression, renfermement et formation de sable penitique, 1 mois de peine. )
 
-#### __Kilovergol__
+#### ► __Kilovergol__
 Le **kilovergol** [KV] 10^3 V ( Comparatique à une facture simple non ouverte, perte socio-contactuelle pouvant atteindre 1 semaine. )
 
-#### __Hectovergol__
+#### ► __Hectovergol__
 Le **hectovergol** [HV] 10^2 V ( Essaim de freloned, difficultés expressatiques, impact de 1 à 3 jours. )
 
-#### __Décavergol__
+#### ► __Décavergol__
 Le **décavergol** [DV] 10 V ( Simple coup uppercutique de rappel à l'ordre, dégat non majeural, entre 0 et 24h. )
 
 # Vergol Informatique <a name="informatique"></a>
