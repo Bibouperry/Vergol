@@ -35,6 +35,7 @@ Le Vergol est une unité du système international, elle suit donc la loi des pr
 Le yottavergol [YV] 10^24 V ( Encore jamais atteint, la théorie voudrait que l'usager s'évapore en relativité au rayonnement de Hawking, dans l'espace quadroquantique, conséquences inconnues )
 
 Le zettavergol [ZV] 10^21 V ( Une telle dose suffit à contrefactuer l'individu dans une dimension n-iéme, calculable par la Loi Hydropeulienne ![hydropeule](https://i.imgur.com/YP3EzR1.png); 
+
 avec P=mg, k la constante Karmique de Bourlbylle, qui se note ![CKarmique](https://i.imgur.com/8BHhENh.png) avec : A une unité astronomique ; D est le jour solaire moyen ; S est la masse solaire. Si à la place du jour solaire moyen, on utilise l'année sidérale comme unité de temps, la valeur de k est alors très proche de 2.PI. V est la vitesse du karma en bordure de la surface considérée ∂D ( mort certaine dans la dimension 1. )
 
 L'exavergol [EV] 10^18 V ( Distrubtion lymphatique nanokepplerienne, mise en orbite non géostationnaire à une vitesse de 155 ua/s, mort certaine. )
