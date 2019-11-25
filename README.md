@@ -1,14 +1,18 @@
 # Vergol
 Étude des phénomènes karmatiques
 
-##### Table des matières
+# Table des matières
 1. [Historique](#historique)  
 2. [Définition](#definition)
 3. [Valeurs Caractéristiques](#valeurs)
 4. [Vergol Informatique](#informatique)
 
 # Historique <a name="historique"></a>
-  L'idée de quantifier le karma de manière universelle selon la probabilité de survenue d'un événement tiré de la nature a été proposée bien avant qu'elle n'obtienne un succès définitif en 2019. Depuis le début du siècle, deux chercheurs français consacrent leurs travaux à l'observation de doses de karma potentiellement mortelles en utilisant notamment le LHC1 à la frontière franco-suisse. Baudouin Fulissin et Thibaut Easyhax de leurs noms présentèrent début novembre 2019 leur théorie concernant cette substance karmatique et parlèrent pour la première fois du vergol. Ils ont par la suite définit des étalons de mesures de cette entité avec notamment l'aide de mesures suborbitales au point de Lagrange L2.
+   L'idée de quantifier le karma de manière universelle selon la probabilité de survenue d'un événement tiré de la nature a été proposée bien avant qu'elle n'obtienne un succès définitif en 2019.
+   
+   Depuis le début du siècle, deux chercheurs français consacrent leurs travaux à l'observation de doses de karma potentiellement mortelles en utilisant notamment le LHC1 à la frontière franco-suisse.
+   
+   Baudouin Fulissin et Thibaut Easyhax de leurs noms présentèrent début novembre 2019 leur théorie concernant cette substance karmatique et parlèrent pour la première fois du vergol. Ils ont par la suite définit des étalons de mesures de cette entité avec notamment l'aide de mesures suborbitales au point de Lagrange L2.
 
 # Définition <a name="definition"></a>
 Le vergol que l'on note V est l'unité du karma. Soit un événement punitif de causalité karmatique que l'on nommera A, cet événement a une probabilité de se produire de n% (n ∈ R*), alors on associera la valeur 1/n V pour mesurer ce karma.
@@ -22,9 +26,11 @@ Son expression correspond au flux du vecteur vitesse V à travers la surface S:
 # Valeurs Caractéristiques <a name="valeurs"></a>
 Plusieurs valeurs caractéristiques du vergol sont notables:
 
--le pluravergol (PV) correspond à 10^155 V. Cette valeur est atteinte lorsqu'un n-événement dû aux pluralités plasmiques des supra-couches atmosphériques de densité non (ou quasi non) Newtonienne et Lagrangienne (acquis). On retrouve ces couches au-delà de 10^5 pieds. A cette altitude la ceinture de Van Allen3 vergolise le champ vectoriel gravitaire et les personnes possédant un QI de 155 (ou plus) subissent une dose d'un pluravergol. Cette dose est mortelle pour les êtres-vivants lambda.
+##### Pluravergol 
+ Le pluravergol (PV) correspond à 10^155 V. Cette valeur est atteinte lorsqu'un n-événement dû aux pluralités plasmiques des supra-couches atmosphériques de densité non (ou quasi non) Newtonienne et Lagrangienne (acquis). On retrouve ces couches au-delà de 10^5 pieds. A cette altitude la ceinture de Van Allen3 vergolise le champ vectoriel gravitaire et les personnes possédant un QI de 155 (ou plus) subissent une dose d'un pluravergol. Cette dose est mortelle pour les êtres-vivants lambda.
 
--l'entitaniovergol (EV) correspond à 10^10^155 V
+##### Entitaniovergol 
+L'entitaniovergol (EV) correspond à 10^10^155 V
 
 -l'ostralopitecovergol (OptcV) correspond à 10^155(base64(rainbow)) V
 
@@ -33,7 +39,6 @@ Plusieurs valeurs caractéristiques du vergol sont notables:
 Le Vergol est une unité du système international, elle suit donc la loi des préfixes du Système international d'unités.
 
 Le yottavergol [YV] 10^24 V ( Encore jamais atteint, la théorie voudrait que l'usager s'évapore en relativité au rayonnement de Hawking, dans l'espace quadroquantique, conséquences inconnues )
-
 Le zettavergol [ZV] 10^21 V ( Une telle dose suffit à contrefactuer l'individu dans une dimension n-iéme, calculable par la Loi Hydropeulienne ![hydropeule](https://i.imgur.com/YP3EzR1.png); 
 
 avec P=mg, k la constante Karmique de Bourlbylle, qui se note ![CKarmique](https://i.imgur.com/8BHhENh.png) avec : A une unité astronomique ; D est le jour solaire moyen ; S est la masse solaire. Si à la place du jour solaire moyen, on utilise l'année sidérale comme unité de temps, la valeur de k est alors très proche de 2.PI. V est la vitesse du karma en bordure de la surface considérée ∂D ( mort certaine dans la dimension 1. )
