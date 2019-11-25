@@ -2,10 +2,10 @@
 Étude des phénomènes karmatiques
 
 ##### Table des matières
-[Historique](#historique)  
-[Définition](#definition)
-[Valeurs Caractéristiques](#valeurs)
-[Vergol Informatique](#informatique)
+1. [Historique](#historique)  
+2. [Définition](#definition)
+3. [Valeurs Caractéristiques](#valeurs)
+4. [Vergol Informatique](#informatique)
 
 # Historique <a name="historique"></a>
   L'idée de quantifier le karma de manière universelle selon la probabilité de survenue d'un événement tiré de la nature a été proposée bien avant qu'elle n'obtienne un succès définitif en 2019. Depuis le début du siècle, deux chercheurs français consacrent leurs travaux à l'observation de doses de karma potentiellement mortelles en utilisant notamment le LHC1 à la frontière franco-suisse. Baudouin Fulissin et Thibaut Easyhax de leurs noms présentèrent début novembre 2019 leur théorie concernant cette substance karmatique et parlèrent pour la première fois du vergol. Ils ont par la suite définit des étalons de mesures de cette entité avec notamment l'aide de mesures suborbitales au point de Lagrange L2.
