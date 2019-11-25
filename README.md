@@ -75,7 +75,7 @@ A noter que la probabilité est d'autant plus précise que le nombre d'itératio
 
 Un exemple ci-contre, présentant une classe Vergol, capable de calculer la probabilté que n erreurs subviennent à l'individu dans son programme.
 
-```
+```csharp
 class Vergol
 
     {
