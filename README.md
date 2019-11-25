@@ -8,7 +8,7 @@
 [Vergol Informatique](#informatique)
 
 # Historique <a name="historique"></a>
-  L'idée de quantifier le karma de manière universelle selon la probabilité de survenue d'un événement tiré de la nature a été proposée bien avant qu'elle n'obtienne un succès définitif en 2019. Depuis le début du siècle, deux chercheurs français consacrent leurs travaux à l'observation de doses de karma potentiellement mortelles en utilisant notamment le LHC1 à la frontière franco-suisse. Baudouin Fulissin et Thibaut Easyhax de leurs noms présentèrent début novembre 2019 leur théorie concernant cette substance karmatique et parlèrent pour la première fois du vergol. Ils ont par la suite définit des étalons de mesures de cette entité avec notamment l'aide de mesures suborbitales au point de Lagrange {\displaystyle L_{2}}L_{2}2
+  L'idée de quantifier le karma de manière universelle selon la probabilité de survenue d'un événement tiré de la nature a été proposée bien avant qu'elle n'obtienne un succès définitif en 2019. Depuis le début du siècle, deux chercheurs français consacrent leurs travaux à l'observation de doses de karma potentiellement mortelles en utilisant notamment le LHC1 à la frontière franco-suisse. Baudouin Fulissin et Thibaut Easyhax de leurs noms présentèrent début novembre 2019 leur théorie concernant cette substance karmatique et parlèrent pour la première fois du vergol. Ils ont par la suite définit des étalons de mesures de cette entité avec notamment l'aide de mesures suborbitales au point de Lagrange L2.
 
 # Définition <a name="definition"></a>
 Le vergol que l'on note V est l'unité du karma. Soit un événement punitif de causalité karmatique que l'on nommera A, cet événement a une probabilité de se produire de n% (n ∈ R*), alors on associera la valeur 1/n V pour mesurer ce karma.
@@ -39,7 +39,7 @@ avec P=mg, k la constante Karmique de Bourlbylle, qui se note ![CKarmique](https
 
 L'exavergol [EV] 10^18 V ( Distrubtion lymphatique nanokepplerienne, mise en orbite non géostationnaire à une vitesse de 155 ua/s, mort certaine. )
 
-Le pétavergol [PV] 10^15 V ( Diffraction asymptotique non logarithmique de puissance p appliqué en une surface {\displaystyle {dx}{dy}}{\displaystyle {dx}{dy}} causant la mort dans 99% des cas, 50 ans pour les chanceux, pierre tombaled pour les autres. )
+Le pétavergol [PV] 10^15 V ( Diffraction asymptotique non logarithmique de puissance p appliqué en une surface ∂x.∂y causant la mort dans 99% des cas, 50 ans pour les chanceux, pierre tombaled pour les autres. )
 
 Le téravergol [TV] 10^12 V ( Implosion des complexes enzymatiques en tout point non-singularitique des réseaux sangino-globuliques de l'individu, hôpitaled pendant 2 ans, remise en jambe de 4 ans, total 6 ans)
 
@@ -67,7 +67,7 @@ La probabilité fluactivique de l'évènement A en Vi est alors donné par la re
 
 où Erreurs est le nombre de Win32Error pour i-Iterations.
 
-L'Erreur est potentiellement donnée par l'essai lecturielle du triple pointeur, dont la base mémorique est donné par {\displaystyle n+B}{\displaystyle n+B} ( Situation karmique + Base addresse ).
+L'Erreur est potentiellement donnée par l'essai lecturielle du triple pointeur, dont la base mémorique est donné par n+B ( Situation karmique + Base addresse ).
 
 A noter que la probabilité est d'autant plus précise que le nombre d'itération est grand.
 
